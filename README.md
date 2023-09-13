@@ -3,7 +3,7 @@
 <h1>Retrieval-based-Voice-Conversion-WebUI</h1>
 Kerangka transformasi suara (pengubah suara) yang sederhana dan mudah digunakan berdasarkan VITS<br><br>
 
-[![madewithlove](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)
+[![madewithlove](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/foursbill/Retrieval-based-Voice-Conversion-WebUI-main)
 
 <img src="https://counter.seku.su/cmoe?name=rvc&theme=r34" /><br>
 
